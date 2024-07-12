@@ -10,7 +10,7 @@ simulate weather, supplier/inventory, and sales.
     can affect the outcome at Day close. You keep the lemonade stand open for 
     8 hours.
 
-##How to play
+##How to play (Go To: 'http://%url%/stand' to start game
     1. Open Home Page.
         *Start Date: 6/4/1955 7:00:00 AM
     2. You start out with $2.00. (Starting assets)
