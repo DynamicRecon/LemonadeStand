@@ -1,9 +1,9 @@
-#LEMONADE STAND
+# LEMONADE STAND
 
 ## DESCRIPTION
     
     This my attempt to re-create the basic lemonade stand game using django and simpy to
-simulate weather, supplier/inventory, and sales. 
+    simulate weather, supplier/inventory, and sales. 
 
 
 ## Objective
